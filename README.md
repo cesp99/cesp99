@@ -1,4 +1,4 @@
-#This is aploide, made **by students for students.**
+# This is aploide, made by students for students.
 
 powered by [Cxrlo](https://cxrlodesign.com)
 
