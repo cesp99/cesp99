@@ -1,5 +1,11 @@
-# This is Aploide, made by a student for students.
+# This is Aploide, getting better every day.
 
-## powered by [Cxrlo](https://cxrlodesign.com)
+## Contact
+- Email: [yo@aploi.de](mailto://yo@aploi.de)
 
-<img alt="Aploide's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aploide&count_private=true&show_icons=true&theme=tokyonight" width="70%" />
+## GitHub Analytics
+<p align="middle">
+  <img alt="Aploide's GitHub stats" align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aploide&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aploide&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
