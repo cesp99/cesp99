@@ -1,7 +1,7 @@
 # Hey yo! I'm Carlo, welcome to my profile.
 
 ## Contact
-- Email: [yo@aploi.de](mailto://yo@aploi.de)
+- Email: [yo@aploi.de](mailto:carlo@aploi.de)
 
 ## GitHub Analytics
 <p align="center">
