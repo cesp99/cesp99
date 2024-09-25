@@ -1,4 +1,4 @@
-# Hey yo! I'm Carlo, welcome to my profile.
+# I'm Carlo, welcome to my profile.
 
 ## Contact
 - Email: [carlo@aploi.de](mailto:carlo@aploi.de)
