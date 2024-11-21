@@ -1,4 +1,4 @@
-# Welcome to Carlo's Profile 👋
+# Welcome to Carlo's Profile 🧑‍💻
 
 ## 📬 Contact
 - **Email**: [carlo@aploi.de](mailto:carlo@aploi.de)
@@ -7,8 +7,8 @@
 
 ## 🚀 GitHub Analytics
 <p align="center">
-  <img alt="Carlo's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cesp99&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="49%"/>
-  <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cesp99&layout=compact&langs_count=8&theme=radical" width="49%"/>
+  <img alt="Carlo's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cesp99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="49%"/>
+  <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cesp99&layout=compact&langs_count=8&theme=tokyonight" width="49%"/>
 </p>
 
 ---
