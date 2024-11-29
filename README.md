@@ -15,7 +15,7 @@
 
 ## 🛠️ Languages & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,ruby,swift,rust,go,nodejs,js,python,html,css,docker,git" alt="Languages and Tools" style="border-radius: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,ruby,swift,rust,go,nodejs,js,ts,python,html,css,docker,git" alt="Languages and Tools" style="border-radius: 10px;"/>
 </p>
 
 ---
